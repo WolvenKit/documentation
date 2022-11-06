@@ -8,7 +8,7 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
   title: "RedModding Wiki",
   url: "https://wiki.redmodding.org",
-  baseUrl: "/",
+  baseUrl: "/documentation",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
